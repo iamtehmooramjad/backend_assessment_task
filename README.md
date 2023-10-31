@@ -26,6 +26,10 @@ Atfer running server, You may register and then login.
 After login, you will see tasks saved by seeders. and then you can click on each task to create comments. 
 Pagination and searching is added in tasks also.
 
+# Screen shots
+
+![Screenshot](.screenshots/login.png)
+
 
 # To run test cases:
   First run server using : sail up
