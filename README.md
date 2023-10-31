@@ -28,7 +28,7 @@ Pagination and searching is added in tasks also.
 
 # Screen shots
 
-![Screenshot](.screenshots/login.png)
+![Screenshot](screenshots/login.png)
 
 
 # To run test cases:
